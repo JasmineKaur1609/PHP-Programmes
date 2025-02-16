@@ -12,7 +12,7 @@
     $d = 0123; // octal number
     var_dump($d);
     echo "<br>";
-    echo "This Program is written by Sarvesh Bhardwaj 0221BCA062"
+    echo "This Program is written by Jasmine Kaur 022BCA123"
 
 
 ?>
