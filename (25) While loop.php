@@ -6,6 +6,6 @@
         $i++;
     }
     
-    echo "This Program is written by Sarvesh Bhardwaj 0221BCA062";
+    echo "This Program is written by Jasmine Kaur 022BCA123";
 
 ?> 
