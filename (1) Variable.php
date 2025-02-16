@@ -7,5 +7,5 @@
     echo "string is: $str <br>";  
     echo "integer is: $x <br>";  
     echo "float is: $y <br>";  
-    echo "This Program is written by Sarvesh Bhardwaj 0221BCA062"
+    echo "This Program is written by Jasmine Kaur 022BCA123"
 ?>
