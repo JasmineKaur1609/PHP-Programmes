@@ -16,5 +16,5 @@ var_dump($x != $y);
 var_dump($x <>$y); 
 
 var_dump($x !== $y); 
-echo "<br>This Program is written by Sarvesh Bhardwaj 0221BCA062"
+echo "<br>This Program is written by Jasmine Kaur 022BCA123"
 ?>
