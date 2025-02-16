@@ -16,5 +16,5 @@ if (isArmstrong($number)) {
 } else {
     echo "$number is not an Armstrong number.";
 }
-echo"<br>This program is written by Sarvesh Bhardwaj 0221BCA062"
+echo"<br>This program is written by Jasmine Kaur 022BCA123"
 ?>
