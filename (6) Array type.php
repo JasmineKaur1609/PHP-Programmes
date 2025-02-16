@@ -11,6 +11,6 @@
     var_dump($color_codes);
     echo "<br><br>";  // Adding line breaks for better readability
 
-    echo "This Program is written by Sarvesh Bhardwaj 0221BCA062<br>";
+    echo "This Program is written by Jasmine Kaur 022BCA123<br>";
 
 ?>
