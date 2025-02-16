@@ -10,6 +10,6 @@
     echo "$x / $y = ". ($x / $y) . "<br>"; // 0utputs: 2.5
     echo "$x % $y = ". ($x % $y) . "<br>"; // 0utputs: 2
     echo "<br>";
-    echo "This Program is written by Sarvesh Bhardwaj 0221BCA062"
+    echo "This Program is written by Jasmine Kaur 022BCA123"
 
 ?>
