@@ -15,6 +15,6 @@
 	echo "Salary of Zara is: " . $salaries['zara'] . "<br/>";
 	
 	echo "<br>";
-	echo "Code executed by Manshay(0221BCA106)";
+	echo "This Program is written by Jasmine Kaur 022BCA123"
 ?>
 
