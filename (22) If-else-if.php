@@ -1,5 +1,5 @@
 <?php
-
+ 
     $a = 45;
     $b = 70;
     
@@ -13,6 +13,6 @@
         echo "$a is smaller than $b<br>";
     }
 
-    echo "This Program is written by Sarvesh Bhardwaj 0221BCA062"
+    echo "This Program is written by Jasmine Kaur 022BCA123 <br>";
 
 ?>
