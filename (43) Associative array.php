@@ -14,7 +14,7 @@ $salaries['twinkle'] = "low";
 echo "Salary of Roshan is " . $salaries['roshan'] . "<br />";
 echo "Salary of Twinkle is " . $salaries['twinkle'] . "<br />";
 echo "Salary of Zara is " . $salaries['zara'] . "<br />";
-echo"This program is written by Sarvesh Bhardwaj 0221BCA062"
+echo"This program is written by Jasmine Kaur 0221BCA123"
 ?>
 </body>
 </html>
