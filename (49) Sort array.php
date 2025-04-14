@@ -7,6 +7,6 @@ rsort($colors);
 foreach($colors as $color) {
     echo $color . "<br>";
 }
-echo "This Program is Written by Sarvesh Bhardwaj 0221BCA062";
+echo "This Program is Written by Jasmine Kaur 0221BCA123";
 ?>
 
