@@ -27,5 +27,5 @@ echo "5 << 1 will be $answer<br>";
 // Bitwise Right shift 
 $answer = $First >> $second; 
 echo "5 >> 1 will be $answer<br>"; 
-echo "<br>This Program is Written by Sarvesh Bhardwaj 0221BCA062";
+echo "<br>This Program is Written by Jasmine KAUR 0221BCA123";
 ?>
