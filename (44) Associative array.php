@@ -21,7 +21,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $percentage = ($total / 500) * 100;
     echo "Total Marks: $total<br>";
     echo "Percentage: $percentage%<br>";
-    echo "This Program is Written by Sarvesh Bhardwaj 0221BCA062";
+    echo "This Program is Written by Jasmine Kaur 0221BCA123
+    ";
 }
 ?>
 </body>
