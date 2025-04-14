@@ -12,7 +12,7 @@ arsort($age);
 foreach($age as $name => $value) {
     echo "$name: $value<br>";
 }
-echo "This Program is Written by Sarvesh Bhardwaj 0221BCA062<br>";
+echo "This Program is Written by Jasmine Kuar 0221BCA123<br>";
 ?>
 </body>
 </html>
