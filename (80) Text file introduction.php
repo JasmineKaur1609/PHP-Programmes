@@ -4,8 +4,8 @@
 $fileName = "about_me.txt";
 
 // Content to be written in the file
-$name = "Sarvesh Bhardwaj";
-$introduction = "Hello, my name is Sarvesh Bhardwaj. I am a passionate software developer who loves exploring new technologies and solving challenging problems. In my free time, I enjoy playing playstation, hiking, and learning about artificial intelligence.";
+$name = "Jasmine Kaur";
+$introduction = "Hello, my name is Jasmine Kaur. I am a passionate software developer who loves exploring new technologies and solving challenging problems. In my free time, I enjoy playing playstation, hiking, and learning about artificial intelligence.";
 
 $content = "Name: $name\nIntroduction: $introduction";
 
