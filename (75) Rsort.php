@@ -14,7 +14,7 @@ $colors = array("Red", "Green", "Blue", "Yellow");
 rsort($colors);
 print_r($colors);
 ?>
-echo"<br>This Program is Written by Sarvesh Bhardwaj 0221BCA062"
+echo"<br>This Program is Written by Jasmine Kaur 0221BCA123"
 
 </body>
 </html>
