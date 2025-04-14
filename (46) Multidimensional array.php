@@ -23,7 +23,7 @@
     echo "Marks for Roshan in physics: " . $marks['roshan']['physics'] . "<br/>";
     echo "Marks for Twinkle in maths: " . $marks['twinkle']['maths'] . "<br/>";
     echo "Marks for Zara in chemistry: " . $marks['zara']['chemistry'] . "<br />";
-    echo"This Program is written by Sarvesh Bhardwaj 0221BCA062"
+    echo"This Program is written by Jasmine Kaur 0221BCA123"
     ?>
 </body>
 </html>
