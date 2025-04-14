@@ -12,6 +12,6 @@
     echo(date_sunrise(time(), SUNFUNCS_RET_STRING, 38.4, -9, 90, 1) . "<br>");
     echo("Sunset time: ");
     echo(date_sunset(time(), SUNFUNCS_RET_STRING, 38.4, -9, 90, 1) . "<br>");
-    echo "This Program is Written by Sarvesh Bhardwaj 0221BCA062";
+    echo "This Program is Written by Jasmine Kaur 0221BCA123";
 
 ?>
