@@ -10,5 +10,5 @@ echo '<pre>Hello\tWorld!</pre>'; // Displays: Hello\tWorld! (but \t is not inter
 echo "<pre>Hello\tWorld!</pre>"; // Displays: Hello    World! (with a tab space)
 // Correct usage of escape character:
 echo 'I\'ll be back'; // Displays: I'll be back
-echo "This Program is Written by Sarvesh Bhardwaj 0221BCA062<br>"; // Adding a line break at the end
+echo "This Program is Written by Jasmine Kaur 0221BCA123<br>"; // Adding a line break at the end
 ?>
